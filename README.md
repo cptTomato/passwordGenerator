@@ -1,2 +1,3 @@
 # passwordGenerator
-Ein Passwort Generator
+Ein Passwort Generator für einfache Logins 
+
